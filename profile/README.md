@@ -1,6 +1,6 @@
 # Hello, World!
 
-This GitHub organization hosts development tools, prototypes, and other learning exercises.
+This GitHub organization hosts development tools, prototypes, and learning exercises.
 
 ## Disclaimer
 
