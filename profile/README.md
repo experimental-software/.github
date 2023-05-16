@@ -1,4 +1,4 @@
-# OpenEHR Java API
+# openEHR Java API
 
 [![Stability: Experimental](https://masterminds.github.io/stability/experimental.svg)](https://masterminds.github.io/stability/experimental.html)
 
