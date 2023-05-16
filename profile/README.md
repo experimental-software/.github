@@ -23,6 +23,7 @@ https://specifications.openehr.org/releases/RM/Release-1.1.0
 - https://de.wikipedia.org/wiki/XML_Metadata_Interchange
 - https://www.omg.org/spec/XMI/2.0/PDF
 - https://datei.wiki/extension/mdzip
+- https://www.3ds.com/products-services/catia/products/no-magic/magicdraw/
 
 ## Legal notice
 
