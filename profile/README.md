@@ -8,6 +8,12 @@ This project makes the data types from the openEHR specifications accessible as 
 
 TBD
 
+## References
+
+- https://specifications.openehr.org/components
+- https://specifications.openehr.org/development_baseline
+- https://specifications.openehr.org/releases/UML/latest/index.html
+
 ## Legal notice
 
 openEHR is a trademark of [openEHR International](https://openehr.org/about/contacts).
@@ -20,4 +26,4 @@ This project adopts the specification, under the assumption that it is allowed u
 
 This project is not affiliated nor endorsed by openEHR International.
 
-Also see: [Allowed use of openEHR specification intellectual property for client SDKs | discourse.openehr.org](https://discourse.openehr.org/t/allowed-use-of-openehr-specification-intellectual-property-for-client-sdks/4001/8)
+Also see: [Allowed use of openEHR specification intellectual property for client SDKs | discourse.openehr.org](https://discourse.openehr.org/t/allowed-use-of-openehr-specification-intellectual-property-for-client-sdks/4001/1)
