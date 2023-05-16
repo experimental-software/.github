@@ -14,6 +14,16 @@ TBD
 - https://specifications.openehr.org/development_baseline
 - https://specifications.openehr.org/releases/UML/latest/index.html
 
+### UML XMI
+
+> UML file for MagicDraw 19 for RM model. Contains UML 2.5 standard XMI file.
+
+https://specifications.openehr.org/releases/RM/Release-1.1.0
+
+- https://de.wikipedia.org/wiki/XML_Metadata_Interchange
+- https://www.omg.org/spec/XMI/2.0/PDF
+- https://datei.wiki/extension/mdzip
+
 ## Legal notice
 
 openEHR is a trademark of [openEHR International](https://openehr.org/about/contacts).
