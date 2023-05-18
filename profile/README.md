@@ -6,15 +6,19 @@ This project transpiles the openEHR specifications into API components for the J
 
 ## Overview
 
-Following, the "Separate Abstractions" pattern for Java Application Architecture (see Martin 2021, p. 237 ff.) ....
+The openEHR specificiation are transpiled into the Java programming language as interfaces and enums.
+By publishing Maven packages that contain onl API Modules pattern (aka. "Separate Abstractions") ...
+This approach is also known as Separate Abstractions pattern [1].
 
-"abstract module"
+IMG
 
 ## References
 
 - https://specifications.openehr.org/components
 - https://specifications.openehr.org/development_baseline
 - https://specifications.openehr.org/releases/UML/latest/index.html
+- https://opus.ch/modularity-patterns-with-jpms-abstractions/
+- [1] Knoernschild 2021, p. 237 ff. / https://dzone.com/refcardz/patterns-modular-architecture
 
 ## Legal notice
 
