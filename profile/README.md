@@ -8,6 +8,8 @@ This project transpiles the openEHR specifications into API components for the J
 
 Following, the "Separate Abstractions" pattern for Java Application Architecture (see Martin 2021, p. 237 ff.) ....
 
+"abstract module"
+
 ## References
 
 - https://specifications.openehr.org/components
