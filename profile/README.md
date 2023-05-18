@@ -2,7 +2,7 @@
 
 [![Stability: Experimental](https://masterminds.github.io/stability/experimental.svg)](https://masterminds.github.io/stability/experimental.html)
 
-This project transpiles the openEHR specifications into API components for the Java programming language.
+This project provides a collection of Maven packages that contain the interface types and enum declarations for the corresponding openEHR specification.
 
 ## Overview
 
