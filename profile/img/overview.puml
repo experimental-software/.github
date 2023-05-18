@@ -1,0 +1,5 @@
+@startuml undefined
+
+component "openehr-rm-java" as rm
+
+@enduml

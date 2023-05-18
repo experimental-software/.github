@@ -9,7 +9,7 @@ This project provides a collection of Maven packages that contain interface type
 The openEHR specificiations are transpiled into the Java programming language as interfaces and enums.
 (...) This approach is also known as Separate Abstractions pattern [1].
 
-IMG
+![component diagram](./img/overview.png)
 
 ## References
 
