@@ -2,11 +2,11 @@
 
 [![Stability: Experimental](https://masterminds.github.io/stability/experimental.svg)](https://masterminds.github.io/stability/experimental.html)
 
-This project makes the data types from the openEHR specifications accessible as Java data types.
+This project transpiles the openEHR specifications into API components for the Java programming language.
 
 ## Overview
 
-TBD
+Following, the "Separate Abstractions" pattern for Java Application Architecture (see Martin 2021, p. 237 ff.) ....
 
 ## References
 
