@@ -6,7 +6,7 @@ This project provides a collection of Maven packages that contain the interface 
 
 ## Overview
 
-The openEHR specificiation are transpiled into the Java programming language as interfaces and enums.
+The openEHR specificiations are transpiled into the Java programming language as interfaces and enums.
 By publishing Maven packages that contain onl API Modules pattern (aka. "Separate Abstractions") ...
 This approach is also known as Separate Abstractions pattern [1].
 
