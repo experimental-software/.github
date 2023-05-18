@@ -17,7 +17,7 @@ IMG
 - https://specifications.openehr.org/development_baseline
 - https://specifications.openehr.org/releases/UML/latest/index.html
 - https://opus.ch/modularity-patterns-with-jpms-abstractions/
-- [1] Knoernschild 2021, p. 237 ff. / https://dzone.com/refcardz/patterns-modular-architecture
+- [1] Knoernschild 2012, p. 237 ff. / https://dzone.com/refcardz/patterns-modular-architecture
 
 ## Legal notice
 
