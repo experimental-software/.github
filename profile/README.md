@@ -20,11 +20,7 @@ openEHR is a trademark of [openEHR International](https://openehr.org/about/cont
 
 The specifications are distributed under the [Attribution-NoDerivs 3.0 Unported (CC BY-ND 3.0)](https://creativecommons.org/licenses/by-nd/3.0/deed.en_GB) license.
 
-This project transpiles the specification to the Java programming language, under the assumption that it is allowed usage according to the "Principles" section in their Intellectual Property notice: https://openehr.org/governance/intellectual_property .
-
-under the following principle in their [Intellectual Property | openehr.org](https://openehr.org/governance/intellectual_property) notice:
-
-> Specifications, open source software and Clinical Models can be used without restriction in commercial products.
+This project transpiles the specification to the Java programming language, under the assumption that it is allowed usage according to the "Principles" section in their Intellectual Property notice: https://openehr.org/governance/intellectual_property.
 
 This project is not affiliated nor endorsed by openEHR International.
 
