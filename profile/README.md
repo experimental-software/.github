@@ -18,6 +18,7 @@ The openEHR specificiations are transpiled into the Java programming language as
 - https://specifications.openehr.org/releases/UML/latest/index.html
 - https://opus.ch/modularity-patterns-with-jpms-abstractions/
 - [1] Knoernschild 2012, p. 237 ff. / https://dzone.com/refcardz/patterns-modular-architecture
+- https://www.openehr.org/publications/health_ict/R-Chen-etal-openEHR-Java-Impl-Medinfo2007-2007-03-31.pdf
 
 ## Legal notice
 
